@@ -9,3 +9,6 @@
 - code_py : https://github.com/chrisalbon/code_py
 
 * 원문이 영문인 경우 한국어 주석으로 변경하면서 진행
+
+---
+- 이기적 빅데이터분석기사 실기 책 진행: https://license.youngjin.com/artyboard/mboard.asp?Action=view&strBoardID=Pds_l&intPage=1&intCategory=0&strSearchCategory=|s_name|s_subject||&strSearchWord=%BA%F2%B5%A5%C0%CC%C5%CD&intSeq=116981
